@@ -6,6 +6,8 @@ Step 3. Compute the average SP value across all chains at each frame to determin
 
 Our protein has 5 chains. So we calculate the SP of all the 5 chains and then calculate the average SP across all chains using the Python script
 
+#########
+
 Requirements:
 1) pdb file
 2) xtc file
