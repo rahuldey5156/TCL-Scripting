@@ -7,6 +7,9 @@ Step 6. After calculating the contacts for all the pairs, run the script inter_c
 Step 7. To generate the plot of inter contact, run the script inter_contact_plot.py
 
 Additional Step: To identify the residues that have contacts higher than a specific required value, run the script test.py
+To run this step, inter_contact.dat and pdb file is required.
+
+###########################
 
 Requirement:
 1. pdb file
