@@ -5,5 +5,5 @@ Requirements
 
 ############
 
-To get hydrophobic sasa per residue, run the python script after running hydrophobic_sasa_4.tcl script
+To get hydrophobic sasa per residue, run the python script after running hydrophobic_sasa4.tcl script
 Note: This python script is not applicable for sasa.tcl
